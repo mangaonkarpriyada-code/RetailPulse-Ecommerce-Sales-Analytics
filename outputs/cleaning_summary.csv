@@ -1,0 +1,2 @@
+original_rows,duplicates_removed,cancelled_invoices_removed,rows_missing_required_fields_removed,invalid_quantity_or_price_removed,final_rows
+541909,5268,9251,1454,1058,524878
