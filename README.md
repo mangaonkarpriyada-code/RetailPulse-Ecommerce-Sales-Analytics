@@ -161,7 +161,6 @@ Run the dataset downloader and analysis script before launching the dashboard. T
 
 Computer Engineering Student
 
-- **GitHub:** https://github.com/mangaonkarpriyada-code
 - **LinkedIn:** https://www.linkedin.com/in/priyada-mangaonkar-906b42424/
 
 ---
